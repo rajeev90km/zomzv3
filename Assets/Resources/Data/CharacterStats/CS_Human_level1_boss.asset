@@ -9,27 +9,27 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 010f5063cff6044a5bc592ccdb7030cc, type: 3}
-  m_Name: CS_Zombie_Exploding
+  m_Name: CS_Human_level1_boss
   m_EditorClassIdentifier: 
-  Health: 100
-  WalkSpeed: 1
+  Health: 125
+  WalkSpeed: 2.5
   CrouchWalkSpeed: 0
   ClimbSpeed: 1.5
-  RunSpeed: 6
+  RunSpeed: 4.5
   PushSpeed: 1
   FieldOfView: 180
-  LookRange: 8
-  AttackRate: 2
-  HurtRate: 1
+  LookRange: 10
+  AttackRate: 0.9
+  HurtRate: 0.5
   HumanAttackStrength: 10
-  AttackStrength: 100
-  AttackRange: 2
+  AttackStrength: 20
+  AttackRange: 1.25
   ShootRange: 7
-  ZomzRange: 12
+  ZomzRange: 15
   ZomzSpeed: 5
-  AttackDamageToSelf: 100
+  AttackDamageToSelf: 0
   DiveDistance: 3
   DiveTime: 1
   StompRange: 5
-  ExplosionRange: 9
+  ExplosionRange: 7
   HearingRange: 4

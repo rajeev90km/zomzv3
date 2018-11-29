@@ -2225,7 +2225,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _canAttackHumans: 1
   _initState: 0
-  _characterStats: {fileID: 11400000, guid: 17ceff4dbbfda47239318969ba62262e, type: 2}
+  _characterStats: {fileID: 11400000, guid: e887bb04a29079946873d9eb36063b43, type: 2}
   _currentHealth: 0
   _currentState: 0
   _wayPointsObj: {fileID: 0}

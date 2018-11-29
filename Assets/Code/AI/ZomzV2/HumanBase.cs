@@ -86,7 +86,7 @@ public class HumanBase : Being
     protected float _guardedPoseChance = 0.2f;
 
     [SerializeField]
-    protected float _rollComboChance = 0.35f;
+    protected float _rollComboChance = 0.45f;
 
     [SerializeField]
     protected float _blockAttackChance = 0.2f;

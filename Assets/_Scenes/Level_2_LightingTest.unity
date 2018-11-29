@@ -6241,8 +6241,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 211403009}
-  m_LocalRotation: {x: -0.08637207, y: 0.9101784, z: 0.24194239, w: 0.32492927}
-  m_LocalPosition: {x: -16.18526, y: -12.684954, z: -6.461338}
+  m_LocalRotation: {x: 0.22166465, y: 0.1216156, z: 0.027874483, w: -0.9671078}
+  m_LocalPosition: {x: 9.623864, y: -19.24414, z: -37.214428}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -24978,8 +24978,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 996265430}
-  m_LocalRotation: {x: -0.088348, y: 0.61579454, z: 0.06976479, w: 0.7798235}
-  m_LocalPosition: {x: -27.121914, y: -2.3375218, z: -41.098427}
+  m_LocalRotation: {x: 0.22307433, y: 0.33860075, z: 0.08297362, w: -0.9103312}
+  m_LocalPosition: {x: 29.588318, y: -14.717879, z: -43.625317}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -26634,7 +26634,7 @@ Light:
   serializedVersion: 8
   m_Type: 1
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 1.95
+  m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -26644,7 +26644,7 @@ Light:
     m_CustomResolution: -1
     m_Strength: 1
     m_Bias: 0.05
-    m_NormalBias: 0.4
+    m_NormalBias: 0.75
     m_NearPlane: 0.2
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
@@ -26666,13 +26666,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1087003383}
-  m_LocalRotation: {x: 0.5443966, y: -0.23692648, z: 0.111129895, w: 0.79696196}
-  m_LocalPosition: {x: 24.55, y: 10.9, z: -36.3}
+  m_LocalRotation: {x: -0.007214295, y: -0.004866929, z: 0.98625994, w: 0.16497163}
+  m_LocalPosition: {x: 24.55, y: 11.4, z: -36.3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 66.983, y: -41.023003, z: -11.93}
+  m_LocalEulerAnglesHint: {x: 179.586, y: -180.907, z: -18.994995}
 --- !u!1001 &1087015216
 Prefab:
   m_ObjectHideFlags: 0
@@ -38569,7 +38569,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1514633008
 Transform:
   m_ObjectHideFlags: 0

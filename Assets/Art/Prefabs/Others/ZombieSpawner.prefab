@@ -61,7 +61,7 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  _maxZombiesInScene: 12
+  _maxZombiesInScene: 7
   _timeBetweenSpawns: 5
   _numZombiesInScene: 0
   _minDeathWaitTime: 5
